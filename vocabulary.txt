@@ -1,0 +1,9 @@
+cat: 고양이
+dog: 강아지
+apple: 사과
+church: 교회
+soap: 비누
+sunflower: 해바라기
+bicycle: 자전거
+wallet: 지갑
+temple: 절
